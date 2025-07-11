@@ -1,12 +1,14 @@
-# CA Community College (CCC) Enrollment Trend Analysis 2016-2025
+# CA Community Colleges (CCC) Enrollment Trend Analysis 2016-2025
 ## Table of Contents
-- [Project Background](#Project-Background )
-- [Data Structure Overview](#Data-Structure-Overview)
-- [Executive Summary](#Insights-Deepdive)
-- [Insights Deep Dive](#eda-summary)
-- [Recommendations] (#Recommendations)
+- [Project Background](#project-background)
+- [Data Structure Overview](#data-structure-overview)
+- [Executive Summary](#executive-summary)
+- [Insights Deep Dive](#insights-deep-dive)
+- [Recommendations](#recommendations)
 ## Project Background 
+The California Community Colleges [Chancellor's Office](https://www.cccco.edu/About-Us/Chancellors-Office) provides comprehensive data on students, faculty, staff, and enrollment trends across all California Community Colleges through its [Data Mart](https://datamart.cccco.edu/datamart.aspx) portal. This publicly available resource offers insights into student demographics, enrollment status (full-time/part-time), student services, faculty assignments, course offerings, and institutional performance metrics. It serves as a valuable tool for researchers, educators, policymakers, and the general public to better understand the dynamics and outcomes of the CCC system. 
 
+This EDA examines academic years 2016 to 2024 to observe enrollment trends over time and assess the potential impact of the COVID-19 pandemic on California Community Colleges. By analyzing changes before, during, and after the pandemic, the goal is to uncover shifts in student enrollment behavior, demographic patterns, and institutional recovery.
 ## Data Structure Overview
 
 ## Executive Summary
