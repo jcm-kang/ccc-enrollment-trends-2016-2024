@@ -1,6 +1,6 @@
 # CA Community College (CCC) Enrollment Trend Analysis 2016-2025
 
-## Background and Overview
+## Project Background 
 
 ## Data Structure Overview
 
