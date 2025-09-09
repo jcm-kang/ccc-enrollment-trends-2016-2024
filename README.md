@@ -1,4 +1,7 @@
 # CA Community Colleges (CCC) Enrollment Trend Analysis 2016-2025
+UPDATE IN PROGRESS -> Adding new data (2023 - 2024) to observe further insight on enrollment trends, as few years have passed since Covid-19. 
+Estimated time of completion - 09/19/25
+
 ## Table of Contents
 - [Project Background](#project-background)
 - [Data Structure Overview](#data-structure-overview)
