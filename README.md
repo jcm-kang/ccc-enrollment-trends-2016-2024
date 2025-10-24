@@ -1,4 +1,4 @@
-# CA Community Colleges (CCC) Enrollment Trend Analysis 2016–2024
+# California Community College Enrollment Trends (2016–2024)
 
 ## Overview  
 This exploratory data analysis (EDA) examines enrollment trends across California Community Colleges (CCC) from 2016 to 2024 using publicly available data from the California Community Colleges Chancellor’s Office (CCCCO) [Data Mart](https://datamart.cccco.edu/datamart.aspx).  
@@ -45,7 +45,8 @@ Format: CSV file containing term-level and demographic-level enrollment data
 **Tools and Techniques**:  
 - **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Data Cleaning:** Handling missing values, correcting data types, and normalizing demographic categories  
-- **Visualization:**  
+- **Visualization:** Time series plots, demographic distributions, and heatmaps for enrollment shifts  
+
 
 ## Executive Summary  
 WIP
