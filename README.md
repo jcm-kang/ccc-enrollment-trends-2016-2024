@@ -43,7 +43,9 @@ Format: CSV file containing term-level and demographic-level enrollment data
 - Headcount  
 
 **Tools and Techniques**:  
-WIP
+- **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Data Cleaning:** Handling missing values, correcting data types, and normalizing demographic categories  
+- **Visualization:**  
 
 ## Executive Summary  
 WIP
