@@ -85,7 +85,7 @@ California’s community college system is **recovering but still below its pre-
 WIP
 
 ## Recommendations  
-Based on the enrollment trends and demographic shifts observed between 2016–2024, several strategies can support a more equitable and sustainable recovery across California’s community colleges:  
+Based on the enrollment trends and demographic shifts observed between 2016–2024, several strategies can support a more robust recovery across California’s community colleges:  
 
 1. **Re-engage Older and Part-Time Learners**  
    - Launch targeted outreach campaigns and flexible re-enrollment pathways for students aged 30 and above, who experienced the sharpest enrollment declines (-22%).  
@@ -95,16 +95,16 @@ Based on the enrollment trends and demographic shifts observed between 2016–20
    - Maintain and expand online or hybrid course offerings that gained traction during the pandemic.  
    - Provide institutional support for digital learning tools, faculty training, and accessibility resources to reduce participation barriers.  
 
-3. **Strengthen Retention and Student Support Services**  
-   - Improve academic advising, tutoring, and mental health services to support persistence beyond initial enrollment.  
-   - Use early alert systems and predictive analytics to identify students at risk of withdrawal or non-completion.  
+3. **Strengthen Retention and Student Support Services** 
+   - Use early alert systems and predictive analytics to identify students at risk of withdrawal or non-completion.
+   - Integrate academic advising to those at high-risk.
 
 4. **Address Demographic Disparities**  
    - Develop culturally responsive outreach for Latino/Hispanic and underrepresented students, who together account for nearly half of statewide enrollment.  
    - Partner with community-based organizations to increase access to financial aid, basic needs programs, and transfer counseling.  
 
-5. **Focus on Data-Driven Policy and Resource Allocation**  
+5. **Focus on Resource Allocation**  
    - Use longitudinal data to monitor recovery by region, term, and demographic segment.  
    - Direct funding and program support to districts showing the slowest recovery, ensuring equitable growth across all 116 colleges.  
 
-By combining targeted outreach, flexible scheduling, and sustained investment in student support and data-driven decision-making, California’s community college system can continue progressing toward full recovery and greater educational equity statewide.
+
