@@ -76,7 +76,6 @@ Together, these institutions represented **15.2%** of total statewide enrollment
 
 ### Year-over-Year Observations  
 - Enrollment declined consecutively from 2019 to 2021, followed by increases of **4.3% (2023)** and **2.5% (2024)**.  
-- The strongest recoveries occurred among large metro-area colleges in **Los Angeles, Orange, and San Diego** counties.  
 
 ### Conclusion  
 California’s community college system is **recovering but still below its pre-pandemic baseline**. Continued improvement will depend on outreach to **older and part-time learners**, expansion of **flexible and hybrid learning options**, and **data-driven strategies** that address demographic and regional disparities. These findings underscore the importance of targeted re-engagement to ensure equitable and sustained recovery across the state’s higher-education landscape. 
